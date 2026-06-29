@@ -4,7 +4,7 @@ This is a simple beginner project completed as part of the 3-hour Robonyx starte
 
 Project GIF:  
 
-<img width="400" height="711" alt="IMG_3217" src="https://github.com/user-attachments/assets/92198adb-aadf-43d8-a665-37f28c5c9bdd" />
+<img width="250" alt="IMG_3217" src="https://github.com/user-attachments/assets/92198adb-aadf-43d8-a665-37f28c5c9bdd" />
 
 Components Used:
 1. Arduino Mega 2560
