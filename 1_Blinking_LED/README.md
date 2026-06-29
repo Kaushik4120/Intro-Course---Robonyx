@@ -2,7 +2,6 @@ Project 1: Blinking LED
 
 This is a simple beginner project completed as part of the 3-hour Robonyx starter course.
 
-Project GIF : 
 <img width="400" height="711" alt="IMG_3217" src="https://github.com/user-attachments/assets/92198adb-aadf-43d8-a665-37f28c5c9bdd" />
 
 Components Used:
@@ -17,5 +16,6 @@ What I Learnt and Experimented With:
 3. Breadboard Architecture: Learned that breadboard rows share an underlying metal strip. Components must bridge separate rows to avoid a short circuit.
    
 Troubleshooting Log:
-1. Issue: The circuit was correctly aligned, but the LED failed to illuminate.
-   Fix: Reversed the LED orientation. I had incorrectly connected the shorter (negative) cathode pin to the positive supply voltage. This highlighted the critical         nature of component polarity.
+Issue: The circuit was correctly aligned, but the LED failed to illuminate.
+Fix: Reversed the LED orientation. I had incorrectly connected the shorter (negative) cathode pin to the positive supply voltage. This highlighted the critical
+nature of component polarity.
