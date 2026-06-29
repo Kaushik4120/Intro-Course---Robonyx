@@ -19,3 +19,9 @@ Troubleshooting Log:
 Issue: The circuit was correctly aligned, but the LED failed to illuminate.
 Fix: Reversed the LED orientation. I had incorrectly connected the shorter (negative) cathode pin to the positive supply voltage. This highlighted the critical
 nature of component polarity.
+sarvesh
+mukund
+raja
+zsdas
+sdas
+asd
