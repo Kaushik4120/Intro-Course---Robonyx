@@ -14,6 +14,9 @@ What I Learnt and Experimented With:
 1. Current Limiting: Connected the resistor in series with the LED to prevent overcurrent damage.
 2. Persistence of Vision: Reduced delay to 5ms. The LED appeared constantly lit, demonstrating how fast biological human sight limits processing rapid blinking.
 3. Breadboard Architecture: Learned that breadboard rows share an underlying metal strip. Components must bridge separate rows to avoid a short circuit.
+   
 Troubleshooting Log:
+
 Issue: The circuit was correctly aligned, but the LED failed to illuminate.
+
 Fix: Reversed the LED orientation. I had incorrectly connected the shorter (negative) cathode pin to the positive supply voltage. This highlighted the         critical nature of component polarity.
