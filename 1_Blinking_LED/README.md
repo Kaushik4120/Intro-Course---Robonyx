@@ -2,6 +2,8 @@ Project 1: Blinking LED
 
 This is a simple beginner project completed as part of the 3-hour Robonyx starter course.
 
+Project GIF:  
+
 <img width="400" height="711" alt="IMG_3217" src="https://github.com/user-attachments/assets/92198adb-aadf-43d8-a665-37f28c5c9bdd" />
 
 Components Used:
