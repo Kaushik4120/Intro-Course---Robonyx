@@ -30,7 +30,6 @@ What I learnt:
 - Using new functions from Arduino libraries
 - Integrating two different programming languages together
 - Fixing errors such as electrical noise to make the project more robust.
-- 
 
 My Improvements / Experimentations:
 - Noticed errors in distance calculation due to electrical noise, and solved it by taking mean distance from 5 values at each angle of the solar scanner's    rotation, thus providing a more approximate, reliable distance value.
@@ -40,7 +39,7 @@ My Improvements / Experimentations:
 
 Troubleshooting log:
 1. Issue: the solar scanner didn't run after uploading the code to the Arduino.
-   Fix: some of the jumper wire pin connections were wrong. I noticed that this was a common mistake repeated quite frequently, which could consequently       lead to circuit damage in some rare cases.
+   Fix: some of the jumper wire pin connections were wrong. I noticed that this was a common mistake repeated quite frequently, which could consequently    lead to circuit damage in some rare cases.
 
 2. Issue: The servo motor made the solar scanner rotate only for 175 degrees, rather than a full 180.
    Fix: I was using a servo motor which was slightly different from Arduino's standard model, thus having to change it's pulse width values.
