@@ -1,10 +1,8 @@
 Project 4: Digital piano
 
 This project combines what I learnt from the Robonyx starter course, with an integrated LCD display system.
+
 <img width="250" height="250" alt="IMG_3711" src="https://github.com/user-attachments/assets/19cb2289-90e7-4e98-8efa-b9d5576e08ba" />
-
-
-
 
 Equipment used:
 1. Buttons (5x)
