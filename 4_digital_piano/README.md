@@ -2,7 +2,7 @@
 
 This project combines what I learnt from the Robonyx starter course with an integrated LCD display system to create a simple digital piano using Arduino.
 
-<img width="250" height="250" alt="IMG_3711" src="https://github.com/user-attachments/assets/19cb2289-90e7-4e98-8efa-b9d5576e08ba" />
+<img width="400" height="400" alt="IMG_3711" src="https://github.com/user-attachments/assets/19cb2289-90e7-4e98-8efa-b9d5576e08ba" />
 
 ## Equipment used:
 
